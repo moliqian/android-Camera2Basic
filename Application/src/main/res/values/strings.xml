@@ -18,4 +18,8 @@
     <string name="description_info">Info</string>
     <string name="request_permission">This sample needs camera permission.</string>
     <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="permission_title">请给予访问权限</string>
+    <string name="permission_refused">未授权权限，应用无法正常运行！</string>
+    <string name="enable_permission_procedure">请在设置 &gt; 应用 &gt; 本应用 &gt; 权限，修改权限</string>
+    <string name="required_permissions_all">本应用需要"访问相机"的权限预览与拍照,需要"访问设备存储"的权限保存拍摄的照片</string>
 </resources>
